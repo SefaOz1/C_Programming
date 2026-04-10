@@ -3,6 +3,8 @@
 #include <ctype.h>
 #include <stdlib.h>
 
+int findSign(int parameter_1);  // prototype
+
 int main()
 {
     int number;
